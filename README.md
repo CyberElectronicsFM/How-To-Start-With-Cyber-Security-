@@ -1,4 +1,4 @@
-# How-To-Start-With-Syber-Security-
+# How-To-Start-With-Cyber-Security-
 By = Mina Magdy 
 
 <important information about syber security> 
